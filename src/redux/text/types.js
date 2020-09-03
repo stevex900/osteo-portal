@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  TEXT_CHANGE: "TEXT_CHANGE",
+  ACTIVE_BUTTON: "ACTIVE_BUTTON",
+  ACTIVE_CHANGE: "ACTIVE_CHANGE",
+};
